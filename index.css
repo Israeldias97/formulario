@@ -1,0 +1,14 @@
+body{
+    background-image: linear-gradient(100deg, black, red, pink);
+    color: white;
+       
+}
+div{
+
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+   
+
+}
